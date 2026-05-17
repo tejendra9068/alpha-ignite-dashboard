@@ -35,7 +35,7 @@ const TEAM_MEMBERS: TeamMember[] = [
         expertise: ['AI/ML', 'System Architecture', 'Visionary Leadership'],
         initials: 'TS',
         color: 'blue',
-        photo: '/team/tejendra.jpg',
+        photo: '/team/tejendra.png',
     },
     {
         name: 'Kunal Singh',
@@ -45,7 +45,7 @@ const TEAM_MEMBERS: TeamMember[] = [
         expertise: ['Web Development', 'Technical Strategy', 'Cloud Computing'],
         initials: 'KS',
         color: 'indigo',
-        photo: '/team/kunal.jpg',
+        photo: '/team/kunal.png',
     },
     {
         name: 'Nitin Sharma',
@@ -55,7 +55,7 @@ const TEAM_MEMBERS: TeamMember[] = [
         expertise: ['Operations Management', 'Web Development', 'User Experience'],
         initials: 'NS',
         color: 'emerald',
-        photo: '/team/nitin.jpg',
+        photo: '/team/nitin.png',
     },
     {
         name: 'Karishma Singh Jayant',
@@ -65,7 +65,7 @@ const TEAM_MEMBERS: TeamMember[] = [
         expertise: ['Operations', 'Content Strategy', 'Event Management'],
         initials: 'KJ',
         color: 'violet',
-        photo: '/team/karishma.jpg',
+        photo: '/team/karishma.png',
     },
 ];
 
